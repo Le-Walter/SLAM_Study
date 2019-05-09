@@ -44,5 +44,4 @@ Collect some good articles, blogs and website links <br>
 8、[RANSAC算法原理与源码解析](https://blog.csdn.net/luoshixian099/article/details/50217655)
 >>说明：随机抽样一致性（RANSAC）算法，可以在一组包含“外点”的数据集中，采用不断迭代的方法，寻找最优参数模型，不符合最优模型的点，被定义为“外点”。<br>
 
-<br>
 9、[Harris角点检测原理及C++实现](https://blog.csdn.net/linqianbi/article/details/78930239)【转自-零钱币】
